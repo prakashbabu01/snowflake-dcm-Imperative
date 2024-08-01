@@ -6,7 +6,7 @@ USE DATABASE MYSNOWDATABASE;
 
 USE SCHEMA MYSNOWSCHEMA;
 
-Alter table EMPLOYEE_PROFILE ADD Column office_phone_num varchar;
+Alter table EMPLOYEE_PROFILE ADD Column office_phone_number varchar;
 
 USE ROLE SECURITYADMIN;
 
